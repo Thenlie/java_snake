@@ -11,7 +11,7 @@ The obligatory first Java game development project! This game was built exclusiv
 
 </div>
 
-## Reesources
+## Resources
 
 This game was built following the Bro Code tutorial found at [https://www.youtube.com/watch?v=bI6e6qjJ8JQ](https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
 
